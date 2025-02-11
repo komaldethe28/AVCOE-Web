@@ -1,0 +1,18 @@
+.nav{
+    font-size: 20px;
+    background-color: rgb(54, 170, 213);
+     padding: 10px;
+    text-align:start;
+    
+}
+
+.nav a
+{
+    color:black;
+
+}
+
+.footer{
+    background-color: grey;
+        
+}
